@@ -9,7 +9,7 @@ public class Mathematics {
     public static void sub(){
         Integer z =30;
         Integer sub = z-y;
-        System.debug('sub of z and y is ' + sub); // this is a new change on july 17
+        System.debug('sub of z and y is ' + sub); // this is a new change on july 17 2023
     }
     public static void multiply(){
         Integer a = 15;
